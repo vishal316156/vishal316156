@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Banner">
+  <img src="https://github.com/vishal316156/vishal316156/blob/main/assets/banner.svg" width="100%" alt="Banner">
 </p>
 
 <p align="center">
