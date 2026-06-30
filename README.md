@@ -10,7 +10,7 @@ Building Full Stack Applications • Exploring AI • Solving Problems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vishal316156&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -163,13 +163,14 @@ Building projects teaches me how software comes together, while DSA teaches me h
 
 # 📊 GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
-</p>
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal316156&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=vishal316156&theme=github-dark&hide_border=true" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal316156&theme=github-dark&hide_border=true" />
 </p>
 
 ---
