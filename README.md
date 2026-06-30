@@ -1,12 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-
-<h3 align="center">
-Electrical Engineering Student • Software Developer by Choice
-</h3>
-
 <p align="center">
-Building Full Stack Applications • Exploring AI • Solving Problems
+  <img src="assets/banner.svg" width="100%" alt="Banner">
 </p>
 
 <p align="center">
