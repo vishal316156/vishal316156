@@ -1,4 +1,8 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="1280"
+     height="320"
+     viewBox="0 0 1280 320">
 
 <defs>
 
@@ -130,7 +134,8 @@ y="200"
 width="520"
 height="52"
 rx="10"
-fill="rgba(255,255,255,0.02)"
+fill="#ffffff"
+fill-opacity="0.02"
 stroke="url(#accent)"
 stroke-width="2"/>
 
@@ -155,7 +160,7 @@ text-anchor="middle"
 font-size="20"
 font-family="Segoe UI"
 fill="#ffffff">
-&lt;/&gt; Full Stack Development &nbsp;&nbsp; │ &nbsp;&nbsp; AI &nbsp;&nbsp; │ &nbsp;&nbsp; Problem Solving
+&lt;/&gt; Full Stack Development | AI | Problem Solving
 </text>
 
 </svg>
