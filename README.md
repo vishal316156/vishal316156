@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal316156&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/vishalkumarnitjsr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
