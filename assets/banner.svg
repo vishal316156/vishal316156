@@ -1,0 +1,161 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#081326"/>
+<stop offset="100%" stop-color="#111c36"/>
+</linearGradient>
+
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#a855f7"/>
+<stop offset="100%" stop-color="#6366f1"/>
+</linearGradient>
+
+<linearGradient id="title" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#ffffff"/>
+<stop offset="100%" stop-color="#a5b4fc"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="6"/>
+</filter>
+
+</defs>
+
+<!-- Background -->
+<rect width="1280" height="320" fill="url(#bg)"/>
+
+<!-- Glow Circles -->
+<circle cx="1080" cy="40" r="150" fill="#8b5cf6" opacity="0.08"/>
+<circle cx="150" cy="290" r="130" fill="#6366f1" opacity="0.07"/>
+
+<!-- Top Line -->
+<line x1="60" y1="40" x2="1220" y2="40"
+stroke="url(#accent)"
+stroke-width="2"/>
+
+<!-- Bottom Line -->
+<line x1="60" y1="280" x2="1220" y2="280"
+stroke="url(#accent)"
+stroke-width="2"/>
+
+<!-- Left Circuit -->
+<g stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.7">
+
+<path d="M0 120 H60 V100 H110"/>
+<path d="M0 150 H90 V170 H150"/>
+<path d="M0 180 H50 V210 H120"/>
+<path d="M0 220 H80 V250 H170"/>
+
+<circle cx="60" cy="100" r="4"/>
+<circle cx="90" cy="170" r="4"/>
+<circle cx="50" cy="210" r="4"/>
+
+</g>
+
+<!-- Right Circuit -->
+<g stroke="#6366f1" stroke-width="2" fill="none" opacity="0.7">
+
+<path d="M1280 120 H1220 V100 H1160"/>
+<path d="M1280 160 H1190 V180 H1130"/>
+<path d="M1280 200 H1210 V230 H1160"/>
+<path d="M1280 240 H1180 V260 H1110"/>
+
+<circle cx="1220" cy="100" r="4"/>
+<circle cx="1190" cy="180" r="4"/>
+<circle cx="1210" cy="230" r="4"/>
+
+</g>
+
+<!-- Dot Grid -->
+<g fill="#7c83ff" opacity="0.7">
+<circle cx="1130" cy="70" r="2"/>
+<circle cx="1150" cy="70" r="2"/>
+<circle cx="1170" cy="70" r="2"/>
+<circle cx="1190" cy="70" r="2"/>
+<circle cx="1210" cy="70" r="2"/>
+
+<circle cx="1130" cy="90" r="2"/>
+<circle cx="1150" cy="90" r="2"/>
+<circle cx="1170" cy="90" r="2"/>
+<circle cx="1190" cy="90" r="2"/>
+<circle cx="1210" cy="90" r="2"/>
+
+<circle cx="1130" cy="110" r="2"/>
+<circle cx="1150" cy="110" r="2"/>
+<circle cx="1170" cy="110" r="2"/>
+<circle cx="1190" cy="110" r="2"/>
+<circle cx="1210" cy="110" r="2"/>
+</g>
+
+<!-- Name -->
+<text
+x="640"
+y="125"
+text-anchor="middle"
+font-size="72"
+font-family="Segoe UI"
+font-weight="700"
+fill="url(#title)">
+VISHAL
+</text>
+
+<!-- Subtitle -->
+
+<line x1="290" y1="170" x2="360" y2="170"
+stroke="url(#accent)"
+stroke-width="3"/>
+
+<line x1="920" y1="170" x2="990" y2="170"
+stroke="url(#accent)"
+stroke-width="3"/>
+
+<text
+x="640"
+y="176"
+text-anchor="middle"
+font-size="20"
+letter-spacing="3"
+font-family="Segoe UI"
+fill="#ffffff">
+ELECTRICAL ENGINEERING STUDENT
+</text>
+
+<!-- Highlight Box -->
+
+<rect
+x="380"
+y="200"
+width="520"
+height="52"
+rx="10"
+fill="rgba(255,255,255,0.02)"
+stroke="url(#accent)"
+stroke-width="2"/>
+
+<text
+x="640"
+y="233"
+text-anchor="middle"
+font-size="22"
+letter-spacing="3"
+font-family="Segoe UI"
+font-weight="600"
+fill="url(#accent)">
+SOFTWARE DEVELOPER BY INTEREST
+</text>
+
+<!-- Bottom Skills -->
+
+<text
+x="640"
+y="305"
+text-anchor="middle"
+font-size="20"
+font-family="Segoe UI"
+fill="#ffffff">
+&lt;/&gt; Full Stack Development &nbsp;&nbsp; │ &nbsp;&nbsp; AI &nbsp;&nbsp; │ &nbsp;&nbsp; Problem Solving
+</text>
+
+</svg>
