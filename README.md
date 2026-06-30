@@ -96,6 +96,7 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 
 A simple notes application built with React and Redux Toolkit that focuses on state management, searching, and local persistence.
 
+<!-- This is a comment
 <p>
 <a href="YOUR_NOTES_DEMO">
 <img src="https://img.shields.io/badge/🌐 Live-000000?style=for-the-badge"/>
@@ -105,7 +106,7 @@ A simple notes application built with React and Redux Toolkit that focuses on st
 <img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
 </a>
 </p>
-
+ -->
 ---
 
 # 💻 Technologies I Work With
