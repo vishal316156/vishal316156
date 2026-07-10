@@ -28,6 +28,38 @@ Every project has taught me something different. Sometimes it's designing a bett
 
 # 🚀 Things I've Built
 
+### 🔍 CppPlagsChecker
+
+> A C++ code similarity analysis tool that detects suspicious structural similarities beyond raw text matching using tokenization, normalization, n-grams, Jaccard similarity, and Winnowing fingerprints.
+
+<p>
+<a href="YOUR_VERCEL_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/vishal316156/CppPlagsChecker">
+<img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
+</a>
+</p>
+
+<details>
+<summary><b>More about this project</b></summary>
+
+### Highlights
+
+- Built a custom C++ source-code processing and similarity pipeline
+- Uses token normalization, n-grams, Jaccard similarity, and Winnowing fingerprinting
+- Includes automated tests and labeled benchmarks to evaluate detection rules
+- Full-stack application with React, Express, Render, and Vercel
+
+### What I learned
+
+Building this project taught me that code similarity detection is not just about calculating a score. False positives, threshold selection, benchmark quality, and distinguishing similarity from actual plagiarism are equally important.
+
+</details>
+
+---
+
 ### 🤖 AI ChatBot
 
 > What began as an experiment with AI gradually evolved into a complete full stack application where users can chat, generate images, save conversations, and continue where they left off.
