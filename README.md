@@ -33,7 +33,7 @@ Every project has taught me something different. Sometimes it's designing a bett
 > A C++ code similarity analysis tool that detects suspicious structural similarities beyond raw text matching using tokenization, normalization, n-grams, Jaccard similarity, and Winnowing fingerprints.
 
 <p>
-<a href="YOUR_VERCEL_LIVE_URL">
+<a href="https://cpp-plags-checker.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/>
 </a>
 
@@ -118,23 +118,6 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 </a>
 </p>
 
----
-
-### 📝 Notes App
-
-A simple notes application built with React and Redux Toolkit that focuses on state management, searching, and local persistence.
-
-<!-- This is a comment
-<p>
-<a href="YOUR_NOTES_DEMO">
-<img src="https://img.shields.io/badge/🌐 Live-000000?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_NOTES_REPOSITORY">
-<img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
-</a>
-</p>
- -->
 ---
 
 # 💻 Technologies I Work With
