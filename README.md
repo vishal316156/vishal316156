@@ -131,9 +131,9 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 Building projects teaches me how software comes together, while DSA teaches me how to think through problems. Both have shaped the way I approach software development.
 
 <p align="center">
-<a href="https://leetcode.com/u/vishal_kumar_ee_nitjsr/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Vishal_MarcoX_83"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/vishalnitj54i6"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30"></a>
+<a href="https://leetcode.com/u/vishal_kumar_ee_nitjsr/"><img src="./assets/leetcode.png" width="80"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Vishal_MarcoX_83"><img src="./assets/codeforces.png" width="80"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/vishalnitj54i6"><img src="./assets/gfg.png" width="80"></a>
 </p>
 
 ---
