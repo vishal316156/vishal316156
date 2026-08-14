@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portfolio-vishal316156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"></a>
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="120"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="60"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -167,10 +167,10 @@ Building projects teaches me how software comes together, while DSA teaches me h
 Thanks for stopping by! If you'd like to connect, collaborate, or simply talk about software, I'd be happy to hear from you.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portfolio-vishal316156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vishalsingh_2488/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30"></a>
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="120"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vishalsingh_2488/"><img src="./assets/instagram.png" width="35"></a>
 </p>
 
 ---
