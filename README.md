@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="120"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="60"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="100"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="51"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
