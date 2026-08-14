@@ -27,7 +27,7 @@ Every project has taught me something different. Sometimes it's designing a bett
 <p>
 <a href="https://cpp-plags-checker.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/>
-</a>
+</a>&nbsp;
 
 <a href="https://github.com/vishal316156/CppPlagsChecker">
 <img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
@@ -59,7 +59,7 @@ Building this project taught me that code similarity detection is not just about
 <p>
 <a href="https://ai-chatbot-lilac-seven.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/>
-</a>
+</a>&nbsp;
 
 <a href="https://github.com/vishal316156/AiChatbot">
 <img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
@@ -103,7 +103,7 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 <p>
 <a href="https://portfolio-vishal316156.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Live-000000?style=for-the-badge"/>
-</a>
+</a>&nbsp;
 
 <a href="https://github.com/vishal316156/portfolio-Vishal316156">
 <img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
