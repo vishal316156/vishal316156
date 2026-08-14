@@ -167,10 +167,10 @@ Building projects teaches me how software comes together, while DSA teaches me h
 Thanks for stopping by! If you'd like to connect, collaborate, or simply talk about software, I'd be happy to hear from you.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="120"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="60"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="60"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vishalsingh_2488/"><img src="./assets/instagram.png" width="35"></a>
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="100"></a>&nbsp;&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="45"></a>&nbsp;&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="43"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vishalsingh_2488/"><img src="./assets/instagram.png" width="25"></a>
 </p>
 
 ---
