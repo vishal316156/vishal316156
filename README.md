@@ -25,12 +25,10 @@ Every project has taught me something different. Sometimes it's designing a bett
 > A C++ code similarity analysis tool that detects suspicious structural similarities beyond raw text matching using tokenization, normalization, n-grams, Jaccard similarity, and Winnowing fingerprints.
 
 <p>
-<a href="https://cpp-plags-checker.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/>
-</a>&nbsp;
+<a href="https://cpp-plags-checker.vercel.app/"><img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"></a>&nbsp;
 
 <a href="https://github.com/vishal316156/CppPlagsChecker">
-<img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge">
 </a>
 </p>
 
@@ -57,9 +55,7 @@ Building this project taught me that code similarity detection is not just about
 > What began as an experiment with AI gradually evolved into a complete full stack application where users can chat, generate images, save conversations, and continue where they left off.
 
 <p>
-<a href="https://ai-chatbot-lilac-seven.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/>
-</a>&nbsp;
+<a href="https://ai-chatbot-lilac-seven.vercel.app/"><img src="https://img.shields.io/badge/🌐 Live Demo-000000?style=for-the-badge"/></a>&nbsp;
 
 <a href="https://github.com/vishal316156/AiChatbot">
 <img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
@@ -101,9 +97,7 @@ This project strengthened my understanding of backend architecture, API design, 
 A personal portfolio built to showcase my projects, learning journey, and growth as a developer while focusing on clean UI and user experience.
 
 <p>
-<a href="https://portfolio-vishal316156.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Live-000000?style=for-the-badge"/>
-</a>&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="https://img.shields.io/badge/🌐 Live-000000?style=for-the-badge"/></a>&nbsp;
 
 <a href="https://github.com/vishal316156/portfolio-Vishal316156">
 <img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge"/>
@@ -151,8 +145,9 @@ Building projects teaches me how software comes together, while DSA teaches me h
 # 📊 GitHub Activity
 
 <div align="center">
-
+<!--
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal316156&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  -->
   <img height="170" src="https://streak-stats.demolab.com?user=vishal316156&theme=github-dark&hide_border=true" />
 </div>
 
