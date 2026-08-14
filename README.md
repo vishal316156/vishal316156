@@ -3,17 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishalkumarnitjsr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://portfolio-vishal316156.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:vishalnitjsr2605ee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"></a>
 </p>
 
 ---
@@ -139,19 +131,9 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 Building projects teaches me how software comes together, while DSA teaches me how to think through problems. Both have shaped the way I approach software development.
 
 <p align="center">
-
-<a href="https://leetcode.com/u/vishal_kumar_ee_nitjsr/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/Vishal_MarcoX_83">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/vishalnitj54i6">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
+<a href="https://leetcode.com/u/vishal_kumar_ee_nitjsr/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/Vishal_MarcoX_83"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/vishalnitj54i6"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30"></a>
 </p>
 
 ---
@@ -185,19 +167,10 @@ Building projects teaches me how software comes together, while DSA teaches me h
 Thanks for stopping by! If you'd like to connect, collaborate, or simply talk about software, I'd be happy to hear from you.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/vishalkumarnitjsr/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-vishal316156.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:vishalnitjsr2605ee@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/vishalsingh_2488/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30"></a>
 </p>
 
 ---
