@@ -1,166 +1,494 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     version="1.1"
      width="1280"
      height="320"
      viewBox="0 0 1280 320">
 
-<defs>
+  <defs>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#081326"/>
-<stop offset="100%" stop-color="#111c36"/>
-</linearGradient>
+    <!-- ================= BACKGROUND ================= -->
 
-<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#a855f7"/>
-<stop offset="100%" stop-color="#6366f1"/>
-</linearGradient>
+    <linearGradient id="bg"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="52%" stop-color="#0B1022"/>
+      <stop offset="100%" stop-color="#12172D"/>
+    </linearGradient>
 
-<linearGradient id="title" x1="0%" y1="0%" x2="0%" y2="100%">
-<stop offset="0%" stop-color="#ffffff"/>
-<stop offset="100%" stop-color="#a5b4fc"/>
-</linearGradient>
 
-<filter id="glow">
-<feGaussianBlur stdDeviation="6"/>
-</filter>
+    <!-- ================= ACCENT ================= -->
 
-</defs>
+    <linearGradient id="accent"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
 
-<!-- Background -->
-<rect width="1280" height="320" fill="url(#bg)"/>
 
-<!-- Glow Circles -->
-<circle cx="1080" cy="40" r="150" fill="#8b5cf6" opacity="0.08"/>
-<circle cx="150" cy="290" r="130" fill="#6366f1" opacity="0.07"/>
+    <!-- ================= TITLE ================= -->
 
-<!-- Top Line -->
-<line x1="60" y1="40" x2="1220" y2="40"
-stroke="url(#accent)"
-stroke-width="2"/>
+    <linearGradient id="title"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C7D2FE"/>
+    </linearGradient>
 
-<!-- Bottom Line -->
-<line x1="60" y1="280" x2="1220" y2="280"
-stroke="url(#accent)"
-stroke-width="2"/>
 
-<!-- Left Circuit -->
-<g stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.7">
+    <!-- ================= GLOW ================= -->
 
-<path d="M0 120 H60 V100 H110"/>
-<path d="M0 150 H90 V170 H150"/>
-<path d="M0 180 H50 V210 H120"/>
-<path d="M0 220 H80 V250 H170"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
 
-<circle cx="60" cy="100" r="4"/>
-<circle cx="90" cy="170" r="4"/>
-<circle cx="50" cy="210" r="4"/>
+    <filter id="smallGlow">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
 
-</g>
 
-<!-- Right Circuit -->
-<g stroke="#6366f1" stroke-width="2" fill="none" opacity="0.7">
+    <!-- ================= GRID ================= -->
 
-<path d="M1280 120 H1220 V100 H1160"/>
-<path d="M1280 160 H1190 V180 H1130"/>
-<path d="M1280 200 H1210 V230 H1160"/>
-<path d="M1280 240 H1180 V260 H1110"/>
+    <pattern id="grid"
+             width="40"
+             height="40"
+             patternUnits="userSpaceOnUse">
 
-<circle cx="1220" cy="100" r="4"/>
-<circle cx="1190" cy="180" r="4"/>
-<circle cx="1210" cy="230" r="4"/>
+      <path d="M40 0H0V40"
+            fill="none"
+            stroke="#94A3B8"
+            stroke-width="0.5"
+            opacity="0.065"/>
 
-</g>
+    </pattern>
 
-<!-- Dot Grid -->
-<g fill="#7c83ff" opacity="0.7">
-<circle cx="1130" cy="70" r="2"/>
-<circle cx="1150" cy="70" r="2"/>
-<circle cx="1170" cy="70" r="2"/>
-<circle cx="1190" cy="70" r="2"/>
-<circle cx="1210" cy="70" r="2"/>
+  </defs>
 
-<circle cx="1130" cy="90" r="2"/>
-<circle cx="1150" cy="90" r="2"/>
-<circle cx="1170" cy="90" r="2"/>
-<circle cx="1190" cy="90" r="2"/>
-<circle cx="1210" cy="90" r="2"/>
 
-<circle cx="1130" cy="110" r="2"/>
-<circle cx="1150" cy="110" r="2"/>
-<circle cx="1170" cy="110" r="2"/>
-<circle cx="1190" cy="110" r="2"/>
-<circle cx="1210" cy="110" r="2"/>
-</g>
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
 
-<!-- Name -->
-<text
-x="640"
-y="125"
-text-anchor="middle"
-font-size="72"
-font-family="Segoe UI"
-font-weight="700"
-fill="url(#title)">
-VISHAL
-</text>
+  <rect width="1280"
+        height="320"
+        fill="url(#bg)"/>
 
-<!-- Subtitle -->
+  <rect width="1280"
+        height="320"
+        fill="url(#grid)"/>
 
-<line x1="290" y1="170" x2="360" y2="170"
-stroke="url(#accent)"
-stroke-width="3"/>
 
-<line x1="920" y1="170" x2="990" y2="170"
-stroke="url(#accent)"
-stroke-width="3"/>
+  <!-- ================================================= -->
+  <!-- AMBIENT LIGHT -->
+  <!-- ================================================= -->
 
-<text
-x="640"
-y="176"
-text-anchor="middle"
-font-size="20"
-letter-spacing="3"
-font-family="Segoe UI"
-fill="#ffffff">
-ELECTRICAL ENGINEERING STUDENT
-</text>
+  <circle cx="150"
+          cy="100"
+          r="160"
+          fill="#6366F1"
+          opacity="0.08"
+          filter="url(#glow)"/>
 
-<!-- Highlight Box -->
+  <circle cx="1130"
+          cy="220"
+          r="170"
+          fill="#A855F7"
+          opacity="0.08"
+          filter="url(#glow)"/>
 
-<rect
-x="380"
-y="200"
-width="520"
-height="52"
-rx="10"
-fill="#ffffff"
-fill-opacity="0.02"
-stroke="url(#accent)"
-stroke-width="2"/>
 
-<text
-x="640"
-y="233"
-text-anchor="middle"
-font-size="22"
-letter-spacing="3"
-font-family="Segoe UI"
-font-weight="600"
-fill="url(#accent)">
-SOFTWARE DEVELOPER BY INTEREST
-</text>
+  <!-- ================================================= -->
+  <!-- LEFT 3D GEOMETRY -->
+  <!-- ================================================= -->
 
-<!-- Bottom Skills -->
+  <polygon points="
+      55,70
+      155,35
+      235,82
+      135,118"
+      fill="#6366F1"
+      fill-opacity="0.055"
+      stroke="#818CF8"
+      stroke-opacity="0.35"
+      stroke-width="1"/>
 
-<text
-x="640"
-y="305"
-text-anchor="middle"
-font-size="20"
-font-family="Segoe UI"
-fill="#ffffff">
-Full Stack Development | AI | Problem Solving
-</text>
+  <polygon points="
+      135,118
+      235,82
+      235,150
+      135,188"
+      fill="#A855F7"
+      fill-opacity="0.035"
+      stroke="#A5B4FC"
+      stroke-opacity="0.22"
+      stroke-width="1"/>
+
+  <polygon points="
+      55,70
+      135,118
+      135,188
+      55,135"
+      fill="#6366F1"
+      fill-opacity="0.025"
+      stroke="#818CF8"
+      stroke-opacity="0.18"
+      stroke-width="1"/>
+
+
+  <!-- Left geometry details -->
+
+  <line x1="75"
+        y1="75"
+        x2="155"
+        y2="110"
+        stroke="#A5B4FC"
+        stroke-width="1"
+        opacity="0.25"/>
+
+  <line x1="155"
+        y1="110"
+        x2="215"
+        y2="84"
+        stroke="#A5B4FC"
+        stroke-width="1"
+        opacity="0.25"/>
+
+
+  <!-- ================================================= -->
+  <!-- LEFT LOWER GEOMETRY -->
+  <!-- ================================================= -->
+
+  <polygon points="
+      10,235
+      90,195
+      175,235
+      95,278"
+      fill="#8B5CF6"
+      fill-opacity="0.035"
+      stroke="#818CF8"
+      stroke-opacity="0.20"
+      stroke-width="1"/>
+
+  <polygon points="
+      95,278
+      175,235
+      175,285
+      95,320"
+      fill="#6366F1"
+      fill-opacity="0.025"
+      stroke="#818CF8"
+      stroke-opacity="0.16"
+      stroke-width="1"/>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT 3D GEOMETRY -->
+  <!-- ================================================= -->
+
+  <polygon points="
+      1040,80
+      1125,35
+      1220,75
+      1135,122"
+      fill="#8B5CF6"
+      fill-opacity="0.05"
+      stroke="#A5B4FC"
+      stroke-opacity="0.32"
+      stroke-width="1"/>
+
+  <polygon points="
+      1135,122
+      1220,75
+      1220,145
+      1135,193"
+      fill="#6366F1"
+      fill-opacity="0.035"
+      stroke="#818CF8"
+      stroke-opacity="0.22"
+      stroke-width="1"/>
+
+  <polygon points="
+      1040,80
+      1135,122
+      1135,193
+      1040,150"
+      fill="#8B5CF6"
+      fill-opacity="0.025"
+      stroke="#A5B4FC"
+      stroke-opacity="0.18"
+      stroke-width="1"/>
+
+
+  <!-- Right geometry details -->
+
+  <line x1="1060"
+        y1="82"
+        x2="1135"
+        y2="115"
+        stroke="#C4B5FD"
+        stroke-width="1"
+        opacity="0.25"/>
+
+  <line x1="1135"
+        y1="115"
+        x2="1200"
+        y2="82"
+        stroke="#C4B5FD"
+        stroke-width="1"
+        opacity="0.25"/>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT LOWER GEOMETRY -->
+  <!-- ================================================= -->
+
+  <polygon points="
+      1080,215
+      1170,175
+      1270,220
+      1180,265"
+      fill="#6366F1"
+      fill-opacity="0.04"
+      stroke="#818CF8"
+      stroke-opacity="0.22"
+      stroke-width="1"/>
+
+  <polygon points="
+      1180,265
+      1270,220
+      1270,278
+      1180,320"
+      fill="#8B5CF6"
+      fill-opacity="0.025"
+      stroke="#A5B4FC"
+      stroke-opacity="0.16"
+      stroke-width="1"/>
+
+
+  <!-- ================================================= -->
+  <!-- FLOATING DIAMONDS -->
+  <!-- ================================================= -->
+
+  <polygon points="
+      285,65
+      305,52
+      325,65
+      305,78"
+      fill="#A855F7"
+      fill-opacity="0.06"
+      stroke="#A5B4FC"
+      stroke-opacity="0.25"
+      stroke-width="1"/>
+
+  <polygon points="
+      955,250
+      975,237
+      995,250
+      975,263"
+      fill="#6366F1"
+      fill-opacity="0.06"
+      stroke="#A5B4FC"
+      stroke-opacity="0.25"
+      stroke-width="1"/>
+
+
+  <!-- ================================================= -->
+  <!-- PARTICLES -->
+  <!-- ================================================= -->
+
+  <g fill="#A5B4FC">
+
+    <circle cx="315" cy="105" r="1.5" opacity="0.45"/>
+    <circle cx="350" cy="260" r="1" opacity="0.30"/>
+    <circle cx="420" cy="55" r="1" opacity="0.35"/>
+
+    <circle cx="860" cy="70" r="1.2" opacity="0.35"/>
+    <circle cx="920" cy="260" r="1" opacity="0.35"/>
+    <circle cx="1000" cy="95" r="1.5" opacity="0.40"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- TOP / BOTTOM FRAME -->
+  <!-- ================================================= -->
+
+  <line x1="70"
+        y1="34"
+        x2="1210"
+        y2="34"
+        stroke="url(#accent)"
+        stroke-width="1"
+        opacity="0.45"/>
+
+  <line x1="70"
+        y1="286"
+        x2="1210"
+        y2="286"
+        stroke="url(#accent)"
+        stroke-width="1"
+        opacity="0.45"/>
+
+
+  <!-- ================================================= -->
+  <!-- TOP LABEL -->
+  <!-- ================================================= -->
+
+  <text x="640"
+        y="78"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="13"
+        font-weight="500"
+        letter-spacing="6"
+        fill="#A5B4FC"
+        opacity="0.82">
+
+    BUILD · SOLVE · CREATE
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- NAME -->
+  <!-- ================================================= -->
+
+  <text x="640"
+        y="146"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="72"
+        font-weight="700"
+        letter-spacing="3"
+        fill="url(#title)">
+
+    VISHAL
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- PREMIUM UNDERLINE -->
+  <!-- ================================================= -->
+
+  <!-- Soft glow -->
+
+  <line x1="495"
+        y1="169"
+        x2="785"
+        y2="169"
+        stroke="#8B5CF6"
+        stroke-width="9"
+        stroke-linecap="round"
+        opacity="0.10"
+        filter="url(#smallGlow)"/>
+
+
+  <!-- Subtle base -->
+
+  <line x1="495"
+        y1="169"
+        x2="785"
+        y2="169"
+        stroke="#475569"
+        stroke-width="1"
+        opacity="0.50"/>
+
+
+  <!-- Main gradient -->
+
+  <line x1="555"
+        y1="169"
+        x2="725"
+        y2="169"
+        stroke="url(#accent)"
+        stroke-width="3"
+        stroke-linecap="round"/>
+
+
+  <!-- Center point -->
+
+  <circle cx="640"
+          cy="169"
+          r="3"
+          fill="#DDD6FE"/>
+
+  <circle cx="640"
+          cy="169"
+          r="8"
+          fill="#A855F7"
+          opacity="0.13"
+          filter="url(#smallGlow)"/>
+
+
+  <!-- ================================================= -->
+  <!-- ROLE -->
+  <!-- ================================================= -->
+
+  <text x="640"
+        y="202"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="22"
+        font-weight="500"
+        letter-spacing="4"
+        fill="#F1F5F9">
+
+    SOFTWARE DEVELOPER
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- SKILLS -->
+  <!-- ================================================= -->
+
+  <text x="640"
+        y="240"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="15"
+        font-weight="400"
+        letter-spacing="2.5"
+        fill="#94A3B8">
+
+    FULL STACK  ·  AI  ·  PROBLEM SOLVING
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- SIDE ACCENTS -->
+  <!-- ================================================= -->
+
+  <circle cx="465"
+          cy="240"
+          r="2"
+          fill="#818CF8"
+          opacity="0.55"/>
+
+  <circle cx="815"
+          cy="240"
+          r="2"
+          fill="#818CF8"
+          opacity="0.55"/>
+
+
+  <!-- ================================================= -->
+  <!-- CORNER DETAILS -->
+  <!-- ================================================= -->
+
+  <g stroke="#818CF8"
+     stroke-width="1"
+     opacity="0.35">
+
+    <path d="M70 55 V45 H80"/>
+    <path d="M1210 55 V45 H1200"/>
+
+    <path d="M70 265 V275 H80"/>
+    <path d="M1210 265 V275 H1200"/>
+
+  </g>
 
 </svg>
