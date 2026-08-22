@@ -18,7 +18,7 @@ Every project has taught me something different. Sometimes it's designing a bett
 
 ---
 
-# 🚀 Things I've Built
+# 🚀 Projects
 
 ### 🔍 CppPlagsChecker
 
