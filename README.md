@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Over time, solving problems naturally led to building projects, and every project pushed me to learn something new. What started with programming gradually grew into building full stack applications and exploring AI, where every challenge became an opportunity to learn, improve, and build something better.
 
@@ -18,9 +18,9 @@ Every project has taught me something different. Sometimes it's designing a bett
 
 ---
 
-# 🚀 Projects
+# Projects
 
-### 🔍 CppPlagsChecker
+### CppPlagsChecker
 
 > A C++ code similarity analysis tool that detects suspicious structural similarities beyond raw text matching using tokenization, normalization, n-grams, Jaccard similarity, and Winnowing fingerprints.
 
@@ -50,7 +50,7 @@ Building this project taught me that code similarity detection is not just about
 
 ---
 
-### 🤖 AI ChatBot
+### AI ChatBot
 
 > What began as an experiment with AI gradually evolved into a complete full stack application where users can chat, generate images, save conversations, and continue where they left off.
 
@@ -92,7 +92,7 @@ This project strengthened my understanding of backend architecture, API design, 
 
 ---
 
-### 🌐 Portfolio Website
+### Portfolio Website
 
 A personal portfolio built to showcase my projects, learning journey, and growth as a developer while focusing on clean UI and user experience.
 
@@ -106,7 +106,7 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 
 ---
 
-# 💻 Technologies I Work With
+# Technologies I Work With
 
 <p align="center">
 
@@ -120,7 +120,7 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 
 ---
 
-# 🧠 Problem Solving
+# Problem Solving
 
 Building projects teaches me how software comes together, while DSA teaches me how to think through problems. Both have shaped the way I approach software development.
 
@@ -132,7 +132,7 @@ Building projects teaches me how software comes together, while DSA teaches me h
 
 ---
 
-# 🎯 Currently Working On
+# Currently Working On
 
 - [ ] Building stronger backend applications
 - [ ] Learning cloud deployment
@@ -142,7 +142,7 @@ Building projects teaches me how software comes together, while DSA teaches me h
 ---
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <div align="center">
 <!--
@@ -157,7 +157,7 @@ Building projects teaches me how software comes together, while DSA teaches me h
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 Thanks for stopping by! If you'd like to connect, collaborate, or simply talk about software, I'd be happy to hear from you.
 
