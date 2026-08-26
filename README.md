@@ -2,10 +2,16 @@
   <img src="https://github.com/vishal316156/vishal316156/blob/main/assets/banner.svg" width="100%" alt="Banner">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="./assets/linkedin.png" width="100"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="./assets/gmail.png" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-vishal316156.vercel.app/"><img src="./assets/portfolio.png" width="51"></a>&nbsp;&nbsp;&nbsp;
+</p> -->
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vishalkumarnitjsr/"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge"/></a>&nbsp;
+<a href="mailto:vishalnitjsr2605ee@gmail.com"><img src="https://img.shields.io/badge/📩 Email-24292F?style=for-the-badge"/></a>&nbsp;
+<a href="https://portfolio-vishal316156.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -139,7 +145,6 @@ Building projects teaches me how software comes together, while DSA teaches me h
 - [ ] Improving DSA and competitive programming
 - [ ] Building more polished full stack applications
 
----
 ---
 
 # GitHub Activity
