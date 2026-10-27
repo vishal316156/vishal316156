@@ -26,6 +26,45 @@ Every project has taught me something different. Sometimes it's designing a bett
 
 # Projects
 
+
+### GateCache
+
+>GateCache is a backend-focused API gateway and caching project built with Node.js, Express, MongoDB, and Redis.
+I built it to get a better understanding of the infrastructure that usually sits between a client and backend services. Instead of implementing each concept separately, the project puts routing, caching, rate limiting, health checks, retries, load balancing, and metrics into one system.
+<p>
+<a href="https://github.com/vishal316156/gatecache">
+<img src="https://img.shields.io/badge/📂 Repository-24292F?style=for-the-badge">
+</a>
+</p>
+
+<details>
+<summary><b>More about this project</b></summary>
+
+### Highlights
+
+- L1 in-memory LRU cache 
+- L2 Redis cache 
+- Cache promotion from Redis back into L1 
+- TTL-based cache expiration 
+- Cache hit, miss, eviction, and hit-ratio statistics 
+- MongoDB-based route configuration
+- Round-robin load balancing
+- Backend health checks
+- Request timeouts
+- Retry handling
+- Token bucket rate limiting
+- Fixed-window and sliding-window rate limiting implementations
+- Backend and request metrics
+- Structured logging with Pino
+- Automatic MongoDB route seeding
+- Docker Compose setup
+- Unit and integration tests with Vitest
+- HTTP load testing with Autocannon
+
+</details>
+
+---
+
 ### CppPlagsChecker
 
 > A C++ code similarity analysis tool that detects suspicious structural similarities beyond raw text matching using tokenization, normalization, n-grams, Jaccard similarity, and Winnowing fingerprints.
