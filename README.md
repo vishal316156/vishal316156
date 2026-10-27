@@ -112,17 +112,13 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 
 ---
 
-# Technologies I Work With
+# Skills
 
-<p align="center">
+• <b>Languages: </b> C, C++, JavaScript, SQL, Golang
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=5" />
+• <b>Frameworks & Technologies:</b> React.js, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs, JWT
 
-</p>
-
-<p align="center">
-<b>Also familiar with:</b> SQL • REST APIs • JWT Authentication • Gemini API
-</p>
+• <b>Tools:</b> Git, GitHub, Postman, Vercel, Docker
 
 ---
 
