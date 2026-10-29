@@ -159,6 +159,8 @@ A personal portfolio built to showcase my projects, learning journey, and growth
 
 • <b>Tools:</b> Git, GitHub, Postman, Vercel, Docker
 
+• <b>CS Fundamentals: </b> Data Structures and Algorithms, Object-oriented programming (OOP), Operating Systems (OS), Computer Networks (CN), Database Management System (DBMS)
+
 ---
 
 # Problem Solving
